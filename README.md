@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chaeyoung
-- 👀 [blog](https://1ch0.tistory.com/)
+- 👀 [Tistory blog](https://1ch0.tistory.com/)
 
 
 <!---
