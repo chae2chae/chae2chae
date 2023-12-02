@@ -1,6 +1,10 @@
 
 - blog : [https://1ch0.tistory.com/](https://1ch0.tistory.com/)
 
+## 🌱 Interests
+- Computer Vision
+  - Object pose estimation, Visual tracking, Multiple view geometry
+  
 ## 💻 Skill
 - Language(computer) : Python, C++
 - Language : Korean , English 
@@ -25,6 +29,8 @@
   />
 </a>
 
+## 📫 Contacts
+- LINKEDIN : [link](https://www.linkedin.com/in/lee-chae-young-a632771b1/)
 
 
 
