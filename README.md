@@ -2,8 +2,8 @@
 - blog : [https://1ch0.tistory.com/](https://1ch0.tistory.com/)
 
 ## 🌱 Interests
-- Computer Vision
-  - Object pose estimation, Visual tracking, Multiple view geometry
+- Spatial AI, Object pose estimation, Visual tracking, Multiple view geometry,
+- Robotics
   
 ## 💻 Skill
 - Language(computer) : Python, C++
