@@ -1,6 +1,6 @@
 
-- blog : [https://1ch0.tistory.com/](https://1ch0.tistory.com/)
-
+- blog : [blog]([https://1ch0.tistory.com/](https://hato-life.tistory.com/))
+- Youtube : [Youtube](https://www.youtube.com/channel/UCmHSG2BpzhDiCO2N2_WU3kg)
 ## 🌱 Interests
 - Spatial AI, Object pose estimation, Visual tracking, Multiple view geometry,
 - Robotics
