@@ -1,17 +1,17 @@
 
 - blog : [blog](https://hato-life.tistory.com/)
 - Youtube : [Youtube](https://www.youtube.com/channel/UCmHSG2BpzhDiCO2N2_WU3kg)
-## 🌱 Interests
+## Interests
 - Robot learning, AI&Robotics
 - Spatial AI, Object pose estimation, Visual tracking, Multiple view geometry
   
-## 💻 Skill
+## Skill
 - Language(computer) : Python, C++
 - Language : Korean , English 
 - Library : Pytorch, OpenCV, Open3D
 - <img src="https://user-images.githubusercontent.com/125112464/233348438-fbbd262f-7d6c-4bbf-88f9-5411fb86cddd.png" width="3%" height="3%"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="3%" height="3%">
 
-## 🌱 Projects
+## Projects
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
