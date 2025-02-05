@@ -1,7 +1,6 @@
 
 ## Interests
 - Robot learning, AI&Robotics
-- Spatial AI, Object pose estimation, Visual tracking, Multiple view geometry
   
 ## Skill
 - Language(computer) : Python, C++
