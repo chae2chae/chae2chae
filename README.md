@@ -1,6 +1,4 @@
 
-- blog : [blog](https://hato-life.tistory.com/)
-- Youtube : [Youtube](https://www.youtube.com/channel/UCmHSG2BpzhDiCO2N2_WU3kg)
 ## Interests
 - Robot learning, AI&Robotics
 - Spatial AI, Object pose estimation, Visual tracking, Multiple view geometry
