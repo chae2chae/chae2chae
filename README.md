@@ -7,5 +7,5 @@ I'm Chaeyoung Lee, a robotic learning researcher focused on real-world manipulat
 - 🌱 Exploring bimanual imitation learning, VLA-based priors, GR00T-N1.5, and foundation-model reward/value learning.
 - 🤖 Interested in agricultural robotics, embodied AI, real-robot manipulation.
 - 🛠️ Tech stack: Python, C++, PyTorch, ROS 1/2, Docker, MuJoCo, Behavior Trees.
-- 📝 Recent projects: MaskACT, TACT, autonomous pollination robots, and DRL-based pedestrian avoidance.
+- 📝 Recent projects: Robot learning, autonomous pollination robots, and DRL-based pedestrian avoidance.
 
